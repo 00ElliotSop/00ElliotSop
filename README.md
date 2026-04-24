@@ -54,6 +54,6 @@
 
 *All tools and techniques demonstrated here are used exclusively in authorised penetration testing engagements and controlled lab environments.*
 
-**ElliotSop Security LLC** · Toronto, Ontario · [elliotsop.com](https://elliotsop.com)
+**ElliotSop Security LLC** · [elliotsop.com](https://elliotsop.com)
 
 </div>
