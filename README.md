@@ -27,28 +27,6 @@
 
 ---
 
-
-
----
-
-```bash
-┌──(elliotsop㉿kali)-[~]
-└─$ ls -la projects/
-```
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| [**PassForge**](https://github.com/00ElliotSop/PassForge) | Personalized wordlist generator + HIBP breach intelligence | `Python` |
-| [**NetRecon**](https://github.com/00ElliotSop/NetRecon) | Network recon & service fingerprinting engine | `Python` |
-| [**ADReaper**](https://github.com/00ElliotSop/ADReaper) | AD enumeration & attack path mapper | `Python` `LDAP` |
-| [**PE Injector Framework**](https://github.com/00ElliotSop) | Process hollowing, thread hijacking, APC injection + EDR evasion | `C#` |
-| [**Custom C2 Framework**](https://github.com/00ElliotSop) | Encrypted comms, modular payloads, anti-forensics | `Python` |
-| [**Shellcode Crypter**](https://github.com/00ElliotSop) | AES/XOR multi-stage crypter + syscall-evading loader | `C` `ASM` |
-| [**AD Attack Toolkit**](https://github.com/00ElliotSop) | Kerberoasting, AS-REP, DCSync, Golden Ticket w/ OPSEC | `PowerShell` |
-| [**WiFi Handshake Tool**](https://github.com/00ElliotSop) | WPA/WPA2 capture, deauth, hash cracking integration | `Python` |
-
----
-
 ```bash
 ┌──(elliotsop㉿kali)-[~]
 └─$ cat attack_lifecycle.txt
@@ -61,29 +39,6 @@
   Nmap         App Exploits    Linux PE       WMI / DCOM     Tunnel
   DNS Enum     Pass Spray      Token Abuse    Kerb Abuse     Covert
   Subdomain    Drive-by        Kernel Expls   DCOM Lateral   Channel
-```
-
----
-
-```bash
-┌──(elliotsop㉿kali)-[~]
-└─$ cat toolkit.sh | head -20
-```
-
-```bash
-TOOLKIT=(
-  "BloodHound"     # AD attack path mapping
-  "Cobalt Strike"  # adversary simulation C2
-  "Mimikatz"       # credential harvesting
-  "Rubeus"         # Kerberos abuse
-  "Impacket"       # SMB / Kerberos / DCSync
-  "Burp Suite Pro" # web application testing
-  "Metasploit"     # exploitation framework
-  "aircrack-ng"    # wireless security
-  "Ghidra"         # reverse engineering
-  "x64dbg"         # dynamic analysis
-  "Custom tooling" # C# · Python · PowerShell
-)
 ```
 
 ---
