@@ -27,50 +27,7 @@
 
 ---
 
-```bash
-┌──(elliotsop㉿kali)-[~]
-└─$ cat profile.json
-```
 
-```json
-{
-  "name"         : "Prince Adeshina",
-  "alias"        : "ElliotSop",
-  "role"         : "Offensive Security Specialist",
-  "company"      : "ElliotSop Security LLC",
-  "location"     : "Toronto, Ontario 🇨🇦",
-  "certifications": ["OSCP", "CRTP"],
-  "thm_rank"     : "Top 2%",
-  "focus"        : [
-                     "Active Directory Exploitation",
-                     "Custom Tooling & Exploit Development",
-                     "AV/EDR Evasion",
-                     "Red Team Operations",
-                     "Adversary Simulation"
-                   ],
-  "website"      : "https://elliotsop.com",
-  "contact"      : "contact@elliotsop.com"
-}
-```
-
----
-
-```bash
-┌──(elliotsop㉿kali)-[~]
-└─$ cat skills.txt
-```
-
-```
-[ Active Directory ]      ████████████████████░  95%
-[ AV/EDR Evasion   ]      ██████████████████░░░  90%
-[ Network Recon    ]      ███████████████████░░  92%
-[ Exploit Dev      ]      █████████████████░░░░  85%
-[ Python / Tooling ]      ██████████████████░░░  88%
-[ PowerShell       ]      █████████████████░░░░  85%
-[ C# / .NET        ]      ████████████████░░░░░  80%
-[ Web App Testing  ]      █████████████████░░░░  83%
-[ OSINT            ]      ████████████████░░░░░  82%
-```
 
 ---
 
