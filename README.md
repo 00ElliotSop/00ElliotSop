@@ -41,7 +41,6 @@
   Subdomain    Drive-by        Kernel Expls   DCOM Lateral   Channel
 ```
 
----
 
 <div align="center">
 
