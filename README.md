@@ -44,11 +44,7 @@
 
 <div align="center">
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00ElliotSop&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e84242&icon_color=e84242&text_color=ffffff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00ElliotSop&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e84242&text_color=ffffff)
+title_color=e84242&text_color=ffffff)
 
 ---
 
