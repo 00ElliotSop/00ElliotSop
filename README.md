@@ -44,7 +44,6 @@
 
 <div align="center">
 
-title_color=e84242&text_color=ffffff)
 
 ---
 
