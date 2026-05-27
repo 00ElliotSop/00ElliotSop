@@ -18,7 +18,6 @@
 **`Offensive Security · Red Team Operations · Applied Adversary Simulation`**
 
 [![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=flat-square)](https://elliotsop.com)
-[![CRTP](https://img.shields.io/badge/CRTP-Certified-red?style=flat-square)](https://elliotsop.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-black?style=flat-square&logo=tryhackme)](https://tryhackme.com)
 [![Website](https://img.shields.io/badge/elliotsop.com-live-darkred?style=flat-square)](https://elliotsop.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-padeshina-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/padeshina)
